@@ -2,7 +2,7 @@
 #
 # pandoc build command for the slide show
 
-pandoc -t revealjs --self-contained \
+pandoc -t revealjs \
 --variable theme="black" \
 -s slides.md \
 -o index.html

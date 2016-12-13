@@ -1,6 +1,6 @@
 % Supporting Your Strong Workforce Application
-% Antelope Valley College
-% Sable Cantus, CTE Data Unlocked
+% Sable Cantus
+% December 13th, 2016
 
 #
 Access this presentation on the web:
