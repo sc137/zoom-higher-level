@@ -12,6 +12,13 @@ Access this presentation on the web:
 
 **tinyurl.com/swf-avc**
 
+# About Me
+
+* Technology Systems Trainer at Rio Hondo College
+* Adjunct Faculty at Golden West College (Digital Media)
+* Musician and Podcaster
+* [My Website](http://cantus.us/)
+
 # What is [Strong Workforce](http://doingwhatmatters.cccco.edu/StrongWorkforce.aspx)?
 
 ![](img/swf1.png)
