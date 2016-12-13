@@ -2,6 +2,11 @@
 % Antelope Valley College
 % Sable Cantus, CTE Data Unlocked
 
+#
+Access this presentation on the web:
+
+**tinyurl.com/swf-avc**
+
 # What is [Strong Workforce](http://doingwhatmatters.cccco.edu/StrongWorkforce.aspx)?
 
 ![](img/swf1.png)
@@ -13,7 +18,8 @@ The Strong Workforce Program is hereby established for the purpose of expanding 
 
 # Distribution
 
-* Funds are ongoing and have been allocated to colleges based on a labor market need, enrollments, and student outcomes, rather than putting out an RFP.* Plans and budgets are very simple, focusing on proof of labor market need and projections regarding how student outcomes will change.
+* Funds are ongoing and have been allocated to colleges based on a labor market need, enrollments, and student outcomes, rather than putting out an RFP.
+* Plans and budgets are very simple, focusing on proof of labor market need and projections regarding how student outcomes will change.
 
 
 # Allocation
@@ -33,18 +39,34 @@ $1,171,947
 * More enrollments in programs leading to high-demand, high wage jobs
 
 
-# “more”*required for all programs** Enrollments
+# “more”
+*required for all programs*
+* Enrollments
 
 # Quality
 
-* More students complete/transfer* More students employed* More students improving their earnings
+* More students complete/transfer
+* More students employed
+* More students improving their earnings
 
 # “better”
-*pick only those metrics that are relevant for your investment** Completion* Transfer* Employment * Employment in field of study* Second quarter earnings* Median change in earnings* Proportion of students who attained a living wage
+
+*pick only those metrics that are relevant for your investment*
+
+* Completion
+* Transfer
+* Employment 
+* Employment in field of study
+* Second quarter earnings
+* Median change in earnings
+* Proportion of students who attained a living wage
+
 
 # Funding
 
-* Colleges will receive 2016-17 funding once their district certifies the local share report template.**This is DUE soon**
+* Colleges will receive 2016-17 funding once their district certifies the local share report template.
+
+**This is DUE soon**
 
 # Guidance
 
@@ -72,15 +94,23 @@ $1,171,947
 # Valid LMI Sources
 
 * Use data that was validated within the last two years
-* Validated local or regional employer input through an employer survey or advisory
+
+* Validated local or regional employer input through an employer survey or advisory
 	* Regional program approval process
-	* Prior regional planning process 	* Local biannual program review* Find data in a report in the [LMI Resource Library](http://doingwhatmatters.cccco.edu/StrongWorkforce/LMILibrary.aspx) * [Demonstrate living wage attainment](https://www.calpassplus.org/LaunchBoard/SWP.aspx) (*Programs where at least 50% of students earned a living wage*)
+	* Prior regional planning process 
+	* Local biannual program review
+
+* Find data in a report in the [LMI Resource Library](http://doingwhatmatters.cccco.edu/StrongWorkforce/LMILibrary.aspx) 
+
+* [Demonstrate living wage attainment](https://www.calpassplus.org/LaunchBoard/SWP.aspx) (*Programs where at least 50% of students earned a living wage*)
 
 # 
 ![[Search the LMI](http://doingwhatmatters.cccco.edu/StrongWorkforce/LMILibrary.aspx)](img/swf3.png)
 
 # 
-![[Go to the Centers of Excellence](http://www.coeccc.net/supply-demand/)](img/swf4.png)#
+![[Go to the Centers of Excellence](http://www.coeccc.net/supply-demand/)](img/swf4.png)
+
+#
 ![Demand data tool](img/swf5.png)
 
 #
@@ -89,7 +119,9 @@ $1,171,947
 #
 Colleges should not compile this information on their own.
 
-* All data points have been pre-populated on the LaunchBoard Strong Workforce Program tab, with benchmarking information.#
+* All data points have been pre-populated on the LaunchBoard Strong Workforce Program tab, with benchmarking information.
+
+#
 ![[CTE Launchboard](http://doingwhatmatters.cccco.edu/LaunchBoard.aspx)](img/swf7.png)
 
 #
