@@ -36,11 +36,12 @@ $1,171,947
 
 # Quantity
 
-* More enrollments in programs leading to high-demand, high wage jobs
+More enrollments in programs leading to high-demand, high wage jobs
 
 
 # “more”
 *required for all programs*
+
 * Enrollments
 
 # Quality
