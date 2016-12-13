@@ -3,6 +3,11 @@
 % December 13th, 2016
 
 #
+Prepared for the fine folks at Antelope Valley College
+
+![](img/avclogo.png)
+
+#
 Access this presentation on the web:
 
 **tinyurl.com/swf-avc**
