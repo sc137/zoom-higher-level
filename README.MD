@@ -6,6 +6,8 @@
 * run ./build.sh
 * open index.html (or place on your own webserver)
 
-Note: You will need [pandoc](https://pandoc.org) installed.
+> Note: You will need [pandoc](https://pandoc.org) installed.
 
     $ brew install pandoc
+
+> This presentation utilizes [Reveal JS](https://github.com/hakimel/reveal.js)
