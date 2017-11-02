@@ -14,8 +14,8 @@ Access this presentation on the web:
 
 # About Me
 
-* Technology Systems Trainer at Rio Hondo College
-* Adjunct Faculty at Golden West College (Digital Media)
+* Technology Systems Trainer at Rio Hondo College (since 2011)
+* Adjunct Faculty at Golden West College (since 2009)
 * [My Website](http://cantus.us/)
 
 # The Prompt
