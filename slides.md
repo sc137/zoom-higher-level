@@ -1,16 +1,20 @@
-% Supporting Your Strong Workforce Application
-% Sable Cantus
-% December 13th, 2016
+% The Equifax Data Breach
+% J Sable Cantus
+% November 3rd, 2017
 
 #
 Prepared for the fine folks at Rio Hondo College
 
-!!get rio logo![](img/)
+<img src="img/rhc_logo.png" width=400>
 
 #
 Access this presentation on the web:
 
-** NEED URL **
+** https://sc137.github.io/cit-equifax/ **
+
+# The Equifax data breach
+
+What may have happened and demonstrate what cybersecurity protocols could have prevented this breach
 
 # About Me
 

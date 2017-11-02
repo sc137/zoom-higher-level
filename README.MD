@@ -5,3 +5,7 @@
 * Edit slides.md
 * run ./build.sh
 * open index.html (or place on your own webserver)
+
+Note: You will need [pandoc](https://pandoc.org) installed.
+
+  $ brew install pandoc
