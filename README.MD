@@ -4,10 +4,8 @@
 
 * Edit slides.md
 * run ./build.sh
-* open index.html (or place on your own webserver)
+* open index.html
 
-> Note: You will need [pandoc](https://pandoc.org) installed.
+> This project utilizes [Reveal JS](https://github.com/hakimel/reveal.js) and [pandoc](https://pandoc.org).
 
     $ brew install pandoc
-
-> This presentation utilizes [Reveal JS](https://github.com/hakimel/reveal.js)
