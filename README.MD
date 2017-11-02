@@ -8,4 +8,4 @@
 
 Note: You will need [pandoc](https://pandoc.org) installed.
 
-  $ brew install pandoc
+    $ brew install pandoc
