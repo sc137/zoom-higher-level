@@ -121,5 +121,5 @@ If a breach does occur, follow your Incident Response Plan
 
 # Thank You!
 
-You may view the code for
+>You may view the code for
 this presentation [here](https://github.com/sc137/cit-equifax)
