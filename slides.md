@@ -70,8 +70,7 @@ Discuss what may have happened and demonstrate what cybersecurity protocols coul
 
 * Apply security patches regularly
 * Consult with security firms for regular auditing and scanning
-* Maintain a company cyber security policy
-* Fund the company cyber security policy
+* Maintain and fund a company information security policy
 
 # Regular Security Patching
 
