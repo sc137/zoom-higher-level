@@ -85,7 +85,7 @@ Discuss what may have happened and demonstrate what cybersecurity protocols coul
 * Internal and External
 * Equifax should hire a private security firm to scan and test
 
-# Cyber Security Policy
+# Information Security Policy
 
 * patch management
 * testing
