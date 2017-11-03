@@ -95,8 +95,8 @@ Discuss what may have happened and demonstrate what cybersecurity protocols coul
 
 # Doesn’t Everyone Get Hacked?
 
-It's an ever increasing risk of doing business.
-If a breach does occur, follow your Incident Response Plan
+* It's an ever increasing risk of doing business.
+* When a breach occurs, follow your Incident Response Plan.
 
 
 # resources
@@ -108,7 +108,7 @@ If a breach does occur, follow your Incident Response Plan
 * [https://krebsonsecurity.com/2017/09/the-equifax-breach-what-you-should-know/](https://krebsonsecurity.com/2017/09/the-equifax-breach-what-you-should-know/)
 * [https://krebsonsecurity.com/2017/09/equifax-breach-setting-the-record-straight/](https://krebsonsecurity.com/2017/09/equifax-breach-setting-the-record-straight/)
 
-# resources (cont'd)
+# resources
 
 * [https://www.bloomberg.com/news/features/2017-09-29/the-equifax-hack-has-all-the-hallmarks-of-state-sponsored-pros](https://www.bloomberg.com/news/features/2017-09-29/the-equifax-hack-has-all-the-hallmarks-of-state-sponsored-pros)
 * [https://www.wired.com/story/equifax-breach-no-excuse/](https://www.wired.com/story/equifax-breach-no-excuse/)
@@ -119,6 +119,4 @@ If a breach does occur, follow your Incident Response Plan
 # Questions?
 
 # Thank You!
-
->You may view the code for
-this presentation [here](https://github.com/sc137/cit-equifax)
+[view the code for this presentation](https://github.com/sc137/cit-equifax)
