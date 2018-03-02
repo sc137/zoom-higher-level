@@ -4,7 +4,7 @@
 
 #
 Fork this repo
-[GIT URL](https://sc137.github.io/reveal_pres_template/)
+[GIT URL](https://github.com/sc137/reveal_pres_template.git)
 
 #
 Update the slides.md file
@@ -29,4 +29,4 @@ Compile to a self-contained file
 Enable git pages FTW
 
 #
-![](https://cdn.pixabay.com/photo/2017/10/18/22/47/cat-2865806_1280.jpg)
+![](img/cat.jpg)
