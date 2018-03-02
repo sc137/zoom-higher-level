@@ -1,4 +1,4 @@
-[View this presentation in your browser.](https://sc137.github.io/cit-equifax/)
+[View this presentation in your browser.](https://sc137.github.io/reveal_pres_template/)
 
 ## How to use this presentation system ...
 

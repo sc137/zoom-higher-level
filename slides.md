@@ -4,7 +4,7 @@
 
 #
 Fork this repo
-[GIT URL]()
+[GIT URL](https://sc137.github.io/reveal_pres_template/)
 
 #
 Update the slides.md file
