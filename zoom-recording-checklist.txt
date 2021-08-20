@@ -1,0 +1,67 @@
+Configure Zoom Cloud Recording:
+
+* Enable cloud recording
+* OPT: Turn off timestamp
+* Record speaker with shared screen
+* Optimize recording for 3rd party
+* OPT: Require registration and configure to avoid getting zoom bombed.
+
+Dry Run:
+
+* Create meeting and send link
+* Check guests microphone
+* Check guests camera
+* Check guests background & lighting
+* Check that no window is open behind
+* Check that there is not a bright light behind
+* Work with guests who will screen share
+* Offer to manage the screen sharing for them
+* Work with guests on any technical questions they have
+
+Speakers Tips:
+
+* Use an ethernet cable if available instead of Wi-Fi
+* Turn off any file synching tools like Dropbox, Google Drive, and OneNote
+* Close any applications that aren't part of the presentation (zoom, powerpoint)
+
+Day of Recording:
+
+* Start meeting 10-15 minutes prior
+* Start a timer to keep track of length once recording starts
+* Configure background, lights, green screen
+* Enable desktop sharing
+* Make Laura Cohost
+* Check all attendees mics are at a good level
+* Check all attendees cameras
+* Start cloud recording when ready
+* Re-record any part that needs to be done over at the end
+* Spotlight the speaker
+* Remove spotlight for the Q&A
+* Put phones in Do Not Disturb or turn to silent
+* Put computers in Silent / DnD mode
+
+Day-of Speaker Checklist:
+
+* Close blinds or windows that provide backlight
+* Turn off or close any applications not in use for the talk
+* Turn off any synching applications such as Dropbox or Google Drive to avoid loss of connection during the talk
+* Use a wired ethernet connection if possible
+* Check that your zoom client is updated
+* Remove anything unseemly from the background
+* Close any bathroom or hallway doors in the shot
+
+Post Recording:
+
+* Download mp4 from zoom
+* Upload to 3C media account
+* Request Captioning through DECT
+
+Day-of Speaker Checklist:
+
+* Close blinds or windows that provide backlight
+* Turn off or close any applications not in use for the talk
+* Turn off any synching applications such as Dropbox or Google Drive to avoid loss of connection during the talk
+* Use a wired ethernet connection if possible
+* Check that your zoom client is updated
+* Remove anything unseemly from the background
+* Close any bathroom or hallway doors in the shot

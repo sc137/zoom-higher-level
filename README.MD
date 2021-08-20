@@ -1,11 +1,8 @@
-[View this presentation in your browser.](https://sc137.github.io/reveal_pres_template/)
+[View this presentation in your browser.](https://sc137.github.io/zoom-higher-level/)
 
-## How to use this presentation system ...
+Sable Cantus presents a Rio Hondo College breakout session for Flex Day 2021 titled:
 
-* Edit slides.md
-* run ./build.sh
-* open index.html
+# Take Your Zoom to a Higher Level
 
-> This project utilizes [Reveal JS](https://github.com/hakimel/reveal.js) and [pandoc](https://pandoc.org).
+8/20/21
 
-    $ brew install pandoc
